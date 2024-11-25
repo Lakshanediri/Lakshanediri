@@ -3,10 +3,19 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></picture></p>
 
 <h1 align="center">Hi 👋, I'm Lakshan Edirisinghe</h1>
-<h3 align="center">A Passionate about coding, ethical hacking, Python, mobile and application development, open-source projects, networking, and collaborating to build innovative solutions from Sri Lanka</h3>
+<h3 align="center">A Passionate about coding, ethical hacking, Python, mobile and application development, open-source projects, networking, and collaborating to build innovative solutions </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshanediri&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanediri" /> </p>
-
+<br>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+<br>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
