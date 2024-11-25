@@ -52,7 +52,11 @@
 ---
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lakshanediri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Lakshanediri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" 
+  alt="GitHub Trophies" 
+/>
+
 
 ---
 
