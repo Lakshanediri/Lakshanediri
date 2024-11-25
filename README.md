@@ -53,9 +53,10 @@
 
 ## 🏆GitHub Trophies
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=Lakshanediri&theme=onedark&no-frame=false&no-bg=false&margin-w=4" 
+  src="https://github-profile-trophy.vercel.app/?username=Lakshanediri&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" 
   alt="GitHub Trophies" 
 />
+
 
 
 
