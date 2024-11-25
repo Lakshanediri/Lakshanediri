@@ -84,11 +84,7 @@ Lakshan Edirisinghe" height="50" width="50" /></a>
   
 </div>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
-  <text x="50" y="100" font-family="cursive" font-size="48" fill="black">
-    Lakshan Edirisinghe
-  </text>
-</svg>
+<img src = "2024-11-25-Lakshan-Edirisinghe.gif" >
 
 
 ---
