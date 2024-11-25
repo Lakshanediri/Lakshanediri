@@ -84,8 +84,6 @@ Lakshan Edirisinghe" height="50" width="50" /></a>
   
 </div>
 
-<img src = "2024-11-25-Lakshan-Edirisinghe.gif" >
-
 
 ---
 <h3 align="left">Languages and Tools:</h3>
