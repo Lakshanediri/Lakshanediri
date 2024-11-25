@@ -83,9 +83,13 @@ Lakshan Edirisinghe" height="50" width="50" /></a>
   <p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></p>
   
 </div>
----
 
-![Lakshan Edirisinghe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <text x="50" y="100" font-family="cursive" font-size="48" fill="black">
+    Lakshan Edirisinghe
+  </text>
+</svg>
+
 
 ---
 <h3 align="left">Languages and Tools:</h3>
