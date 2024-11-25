@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lakshan Edirisinghe</h1>
 <h3 align="center">A Passionate about coding, ethical hacking, Python, mobile and application development, open-source projects, networking, and collaborating to build innovative solutions from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanediri&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanediri" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshanediri&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanediri" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshanediri" alt="lakshanediri" /></a> </p>
 
