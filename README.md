@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></picture></p>
 
 <h1 align="center">Hi 👋, I'm Lakshan Edirisinghe</h1>
 <h3 align="center">A Passionate about coding, ethical hacking, Python, mobile and application development, open-source projects, networking, and collaborating to build innovative solutions from Sri Lanka</h3>
