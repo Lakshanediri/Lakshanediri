@@ -9,11 +9,27 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshanediri" alt="lakshanediri" /></a> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **Python, Linux, Data Structures & Algorithms, Cyber Security, React Native**
 
-- 💬 Ask me about **Python, LInux**
+- 🧑‍🎓 I’m an Undergraduate at **OUSL**
+
+- 💬 Ask me about **Python | LInux**
 
 - 📫 How to reach me **lakshanedirisingheedu2022@gmail.com**
+  
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
