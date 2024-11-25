@@ -55,13 +55,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/lakshan-edirisinghe-18106a310" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Lakshan Edirisinghe" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lakshan-edirisinghe-18106a310/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Lakshan Edirisinghe" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/28471232/lakshan-edirisinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="
 Lakshan Edirisinghe" height="50" width="50" /></a>
 <a href="http://www.youtube.com/@LESLIFE-j3x" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="le's life" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/lakshan_ediri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshan_ediri" height="50" width="50" /></a>
 <a href="https://www.leetcode.com/lakshanediri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshanediri" height="50" width="50" /></a>
-</p>
 <a href="https://www.facebook.com/profile.php?id=100009603560711&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Lakshan Edirisinghe LE" height="50" width="50" /></a>
 <a href="https://www.instagram.com/lakshan_ediri/profilecard/?igsh=NmprN2ZkcmN4aXc3" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="lakshan_ediri" height="50" width="50" /></a>
 </p>
