@@ -39,7 +39,7 @@
 </table>
 
 ---
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2 align="center">🛠️ | Languages, Frameworks, and Tools </h2>
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
