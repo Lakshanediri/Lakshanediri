@@ -90,7 +90,7 @@
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+        <td style="font-weight: bold; padding-left: 20px; vertical-align: center;">Backend:</td>
         <td>
             <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
