@@ -125,8 +125,9 @@
             </a>
         </td>
     </tr>
+        <td width="50%" align="center"> <a href="https://roadmap.sh"> <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>    </td> 
+    </tr>
 </table>
-</div> <div style="margin: 10px;"> <a href="https://roadmap.sh"> <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/> </a> </div> </div>
 ---
 
 <h3 align="center">My Statistics</h3>
