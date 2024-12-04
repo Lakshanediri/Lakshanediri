@@ -127,6 +127,9 @@
     </tr>
 </table>
 
+<be><br>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>
+
 ---
 
 <h3 align="center">My Statistics</h3>
@@ -142,8 +145,6 @@
 <td width="50%" align="center">
 
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lakshanediri&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  <be><br>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>
   </td>
 </tr>
 </table>
