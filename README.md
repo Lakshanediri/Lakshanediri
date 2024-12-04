@@ -124,10 +124,15 @@
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
             </a>
         </td>
-    </tr>
-        <td width="50%" align="center"> <a href="https://roadmap.sh"> <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>    </td> 
-    </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h3 align="center">My Statistics</h3>
