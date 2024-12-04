@@ -62,7 +62,7 @@
         </td>
        <td rowspan="5" style="vertical-align: top; style="padding-left: 50px ">
             <a href="https://roadmap.sh">
-                <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh progress card" width="300" height="300" />
+                <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh progress card" width="300" height="400" />
             </a>
         </td>
     </tr>
