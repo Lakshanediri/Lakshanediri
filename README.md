@@ -60,7 +60,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
             </a>
         </td>
-       <td rowspan="5" style="vertical-align: top;">
+       <td rowspan="5" style="vertical-align: top; style="padding-left: 10px ">
             <a href="https://roadmap.sh">
                 <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh progress card" width="400" />
             </a>
