@@ -60,11 +60,14 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
             </a>
         </td>
-       <td rowspan="6" style="vertical-align: top;" width="50%" align="center" >
-            <a href="https://roadmap.sh">
-                <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh progress card" width="300" height="400"/>
-            </a>
-        </td>
+       <td rowspan="6" style="vertical-align: top;" width="50%" align="center">
+        <a href="https://roadmap.sh">
+          <img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark&cachebuster=<TIMESTAMP>" 
+               alt="roadmap.sh progress card" 
+               width="300" 
+               height="400"/>
+        </a>
+    </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
