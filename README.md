@@ -130,18 +130,6 @@
             </a>
         </td>
 </table>
-<div style="display: flex; justify-content: flex-end; width: 100%; height: 100vh; align-items: center;">
-    <div style="margin-left: auto; margin-right: 0;">
-        <table>
-            <tr>
-                <td>
-                    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>
-                </td>
-            </tr>
-        </table>
-    </div>
-</div>
-
 
 ---
 
