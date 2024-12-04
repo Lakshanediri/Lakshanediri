@@ -125,10 +125,13 @@
             </a>
         </td>
     </tr>
+    <tr>
+      <td width="50%" aglign="center">
+        <be><br>
+            <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>
+      </td>
+    </tr>
 </table>
-
-<be><br>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667a7de6c19525099e50e607?variant=dark" alt="roadmap.sh"/></a>
 
 ---
 
